@@ -18,6 +18,9 @@
     
 </body>
 <footer>
-    <p>&copy; 2023 My Website</p>   
+    <?php
+        include 'footer.php';
+    ?>
+    
 
 </html>
